@@ -1,0 +1,9 @@
+E:\LMS\practice C#\Practice\Practice\bin\Debug\Practice.exe.config
+E:\LMS\practice C#\Practice\Practice\bin\Debug\Practice.exe
+E:\LMS\practice C#\Practice\Practice\bin\Debug\Practice.pdb
+E:\LMS\practice C#\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+E:\LMS\practice C#\Practice\Practice\obj\Debug\Practice.Form1.resources
+E:\LMS\practice C#\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+E:\LMS\practice C#\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+E:\LMS\practice C#\Practice\Practice\obj\Debug\Practice.exe
+E:\LMS\practice C#\Practice\Practice\obj\Debug\Practice.pdb
